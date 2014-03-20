@@ -9,6 +9,7 @@ Categories:
   - cartridge
   - database
 Website: http://www.mysql.com
+Source-Url: https://github.com/fernandohc/openshift-external-postgresql-cartridge/tree/master/cartridges/openshift-origin-cartridge-mysql-5.1
 Help-Topics:
   - "Building with MySQL" : http://docs.redhat.com/docs/en-US/OpenShift/2.0/html/User_Guide/sect-User_Guide-Working_With_Database_Cartridges.html
 Cart-Data:
